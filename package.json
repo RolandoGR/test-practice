@@ -1,0 +1,17 @@
+{
+  "name": "test-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalize.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.21.8",
+    "@babel/preset-env": "^7.21.5",
+    "babel-jest": "^29.5.0"
+  }
+}
